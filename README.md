@@ -12,8 +12,8 @@ Biz `Need Code` kompaniyasi sifatida sifatli va innovatsion dasturiy yechimlar y
 
 ### 🔥 Portfolio va loyihalar  
 Bizning ochiq kodli va tijoriy loyihalarimizni quyidagi sahifamizdan topishingiz mumkin:  
-👉 [GitHub Repositories](https://github.com/YOUR_GITHUB_USERNAME)
+👉 [GitHub Repositories](https://github.com/needcodeuz)
 
 📬 **Biz bilan bog‘lanish**  
-📧 Email: example@needcode.com  
-🌍 Veb-sayt: [needcode.com](https://needcode.com)
+📧 Email: eneedcodee@gmail.com  
+🌍 Veb-sayt: [needcode.uz](https://needcode.uz)
